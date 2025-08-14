@@ -1,2 +1,4 @@
 # pet-api
- API para gerenciamento de Pets
+ API para gerenciamento de Pets 
+
+ Praticando framerword backend.
